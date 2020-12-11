@@ -20,4 +20,7 @@
 ### Trained Model
 - Using DNN (neural network) 
 - Fit & Saved
+### 100% accuracy 
+<img width="818" alt="Screen Shot 2020-12-11 at 1 43 54 AM" src="https://user-images.githubusercontent.com/66715836/101888299-cd245700-3b52-11eb-8454-f8b1b7ef2d73.png">
 
+# Credits & Code inspiration: Tech With Tim
