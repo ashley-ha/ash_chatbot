@@ -1,6 +1,5 @@
 # The "Ash-Bot"
 ## This is my first go at an AI chatbot! 
-### Will continually improve the code & add on
 # Journal: 
 ## 12/11/20:
 ### Used Spyder IDE
