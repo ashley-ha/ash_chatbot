@@ -1,3 +1,4 @@
+#Simple Neural training before making predictions
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
